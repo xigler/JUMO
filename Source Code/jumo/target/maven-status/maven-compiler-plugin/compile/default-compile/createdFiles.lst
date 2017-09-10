@@ -1,0 +1,10 @@
+za\co\jumo\process\CalculateAgregates.class
+za\co\jumo\process\ExtractProducts.class
+za\co\jumo\main\Imp.class
+za\co\jumo\process\ReadCSVFile.class
+za\co\jumo\main\MainClass.class
+za\co\jumo\process\ExtractNetworks.class
+za\co\jumo\process\IdentifyMonths.class
+za\co\jumo\beans\Loan.class
+za\co\jumo\beans\Aggregate.class
+za\co\jumo\process\WriteToCSVFile.class

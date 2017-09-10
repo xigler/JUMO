@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xigler_dates">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/xigler_dates.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
